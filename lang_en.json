@@ -1,0 +1,12 @@
+{
+"title":"Background Remove Tool",
+"select_image":"Select Image",
+"select_output":"Select Output Folder",
+"start":"Start",
+"target_mb":"Target size (MB)",
+"upscale":"Upscale",
+"progress":"Processing...",
+"done":"Done",
+"language":"Language",
+"theme":"Theme"
+}
